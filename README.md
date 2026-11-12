@@ -1,5 +1,7 @@
 # 大模型隐私保护论文分类
 
+新增：[攻击方法调研：分类、详细实现与数学公式](4_Attack/ATTACK_METHODS_zh.md) · [论文与代码索引](4_Attack/ATTACK_PAPERS_AND_CODE.md) · [NumPy 基础实现](4_Attack/attack_baselines_numpy.py)。从 TWIST、SnD、SGT、DualGuard 等的攻击评测与参考文献追溯，原有 PDF 分类及计数保持如下。
+
 按当前本地 **20 篇不同论文**整理，跨方向保留相同 PDF 的实体副本，共 **24 份 PDF**。每篇只在下文完整概括一次，交叉目录提供跳转。分类以本地版本正文的方法、传输对象和训练设置为依据。
 
 ## 分类口径
