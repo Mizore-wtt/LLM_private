@@ -1,0 +1,11 @@
+# Python runtime caches
+__pycache__/
+*.py[cod]
+
+# Regenerable PDF text extraction cache
+/research_notes/extracted/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
